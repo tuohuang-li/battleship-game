@@ -1,0 +1,2 @@
+# simplified_battleship
+comp90048_Declarative Programming
